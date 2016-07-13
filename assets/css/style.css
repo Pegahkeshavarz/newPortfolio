@@ -106,3 +106,18 @@ font-weight: bold !important;
 img {
     width: 98px;
 }
+.style{
+
+}
+footer{
+    position: absolute;
+    bottom: 5%;
+    width:100%;
+    left: 41%;
+
+}
+
+footer p{
+    color:white;
+    font-size: 1.2em;
+}
